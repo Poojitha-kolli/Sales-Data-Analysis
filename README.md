@@ -36,8 +36,8 @@ These spikes might be due to special promotions or festive seasons.
 
 5️⃣ Product-Wise Profit : 
 
-📈 High-Profit Items: iPhone, MacBook Air, Sony TV
+📈 High-Profit Items: iPhone, MacBook Air, Sony TV.
 
-📉 Low-Profit Items: Colgate toothpaste, Dove soap
+📉 Low-Profit Items: Colgate toothpaste, Dove soap.
 
 ✅ Conclusion: Expensive electronics bring higher profit, while FMCG items (like toothpaste and soap) sell more but have low profit per item.
